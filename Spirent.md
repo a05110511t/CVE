@@ -24,6 +24,6 @@ The attacker can access the Company intranet if they use public IP.
 Get root privilege via Privilege Escalating by ssh initial shell(restricted, only for network setting).
 
 ## Contributor
-- CW Tzeng (CHT Security), a05110511t@gmail.com
+- CW Tzeng (CHT Security)
 - Will Chen (CHT Security)
 - Wei Sun (CHT Security)
